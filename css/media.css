@@ -1,0 +1,189 @@
+@media (max-width: 575.98px) {
+    header{
+        padding: 0px 0;
+    }
+    .logo{
+        width: 180px;
+    }
+    .menu ul li a{
+        padding: 0 10px 8px !important;
+    }
+    .banner{
+        padding-bottom: 60px;
+    }
+    .b_text{
+        text-align: center;
+    }
+    .bh1{
+        padding: 0;
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .bp2{
+        padding: 0;
+        line-height: 28px;
+    }
+    .b_img{
+        margin-bottom: 30px;
+        padding: 0;
+    }
+    .c_h1{
+        font-size: 30px;
+    }
+    .sc_course{
+        margin: 60px 0 0;
+        padding: 20px 15px 25px;
+    }
+    .scli:not(:last-child) {
+        margin-right: 0px;
+    }
+    .sc_left ul li img, .sc_right ul li img {
+        width: 20px;
+    }
+    .sc_left ul li span, .sc_right ul li span {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .t_title p {
+        line-height: 24px;
+        text-align: center;
+        margin-top: 20px;
+        font-size: 14px;
+    }
+    .footer_top {
+        text-align: center;
+    }
+    .f_title {
+        padding-right: 0;
+        font-size: 14px;
+    }
+    .f_links h2 {
+        font-size: 25px;
+    }
+    .ft_title p {
+        margin: 20px 0 0;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    header{
+        padding: 0px 0;
+    }
+    .logo{
+        width: 190px;
+    }
+    .menu ul li a{
+        padding: 0 10px 8px !important;
+    }
+    .banner{
+        padding-bottom: 60px;
+    }
+    .b_text{
+        text-align: center;
+    }
+    .bh1{
+        padding: 0 100px 0 ;
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .bp2{
+        padding: 0 50px;
+    }
+    .b_img{
+        margin-bottom: 30px;
+        padding: 0 60px;
+    }
+    .p_c{
+        margin-bottom: 60px;
+    }
+    .s_feature{
+        margin: 30px 0 0;
+    }
+    .c_h1{
+        font-size: 30px;
+    }
+    .sc_course{
+        margin: 60px 70px 0;
+    }
+    .t_title p {
+        line-height: 28px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .footer_top {
+        text-align: center;
+    }
+    .f_title {
+        padding-right: 0;
+        font-size: 14px;
+    }
+    .f_links h2 {
+        font-size: 25px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .menu ul li a{
+        padding: 0 10px 8px !important;
+    }
+    .b_text{
+        text-align: center;
+    }
+    .bh1{
+        padding: 0 140px 0 ;
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .bp2{
+        padding: 0 110px;
+    }
+    .b_img{
+        margin-bottom: 30px;
+        padding: 0 100px;
+    }
+    .p_c{
+        margin-bottom: 80px;
+    }
+    .sc_course{
+        margin: 60px 150px 0;
+    }
+    .f_title {
+        padding-right: 0;
+        font-size: 14px;
+    }
+    .f_links h2 {
+        font-size: 25px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .bh1 {
+        padding: 0 0 0 0;
+    }
+    .sc_course{
+        padding: 20px 15px 25px;
+    }
+    .scli:not(:last-child) {
+        margin-right: 0px;
+    }
+    .sc_left ul li img, .sc_right ul li img {
+        width: 20px;
+    }
+    .sc_left ul li span, .sc_right ul li span {
+        font-size: 15px;
+        font-weight: 400;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .bh1 {
+        padding: 0 25px 0 0;
+    }
+    .s_feature{
+        padding: 55px 0 50px;
+    }
+}
+
+@media (min-width: 1400px) {
+
+}
